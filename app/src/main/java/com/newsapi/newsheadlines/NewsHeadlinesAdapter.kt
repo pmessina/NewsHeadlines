@@ -26,6 +26,7 @@ class NewsHeadlinesAdapter(
         holder.title.text = newsArticles[position].title
         holder.description.text = newsArticles[position].description
         Glide.with(context).load(newsArticles[position].urlToImage).into(holder.image)
+
         holder.url = newsArticles[position].url
         holder.view.tag = holder.url
     }

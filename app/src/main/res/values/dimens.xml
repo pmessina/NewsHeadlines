@@ -1,3 +1,15 @@
 <resources>
     <dimen name="fab_margin">16dp</dimen>
+
+<!--    <dimen name="mtrl_card_spacing">8dp</dimen>-->
+<!--    &lt;!&ndash; Default elevation for {@link MaterialCardView}. &ndash;&gt;-->
+<!--    <dimen name="mtrl_card_elevation">1dp</dimen>-->
+<!--    &lt;!&ndash; Default corner radius for {@link MaterialCardView}. &ndash;&gt;-->
+<!--    <dimen name="mtrl_card_corner_radius">4dp</dimen>-->
+<!--    &lt;!&ndash; Size of the icon to be placed when the card is checked &ndash;&gt;-->
+<!--    <dimen name="mtrl_card_checked_icon_size">24dp</dimen>-->
+<!--    &lt;!&ndash; Margin between the checked icon and the card &ndash;&gt;-->
+<!--    <dimen name="mtrl_card_checked_icon_margin">8dp</dimen>-->
+<!--    &lt;!&ndash; TranslationZ for card when it's on dragged state. &ndash;&gt;-->
+<!--    <dimen name="mtrl_card_dragged_z">5dp</dimen>-->
 </resources>

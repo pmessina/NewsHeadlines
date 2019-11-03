@@ -18,4 +18,8 @@ class NewsUrlActivity : AppCompatActivity() {
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
     }
 
+    override fun onBackPressed() {
+        super.onBackPressed()
+        if (wvArticleURL.canGoBack()) wvArticleURL.goBack()
+    }
 }
